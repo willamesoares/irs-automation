@@ -1,0 +1,13 @@
+{
+  "name": "irs-automation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fill": "node fill-table.mjs"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "playwright": "^1.48.0"
+  }
+}
